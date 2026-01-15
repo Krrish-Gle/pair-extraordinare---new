@@ -1,1 +1,5 @@
-console.log("Krrish")
+console.log("Krr1ish")
+console.log("krris2h")
+console.log("krr1ish")
+console.log("5")
+console.log("krris2h")
